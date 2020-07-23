@@ -2,25 +2,25 @@
 
 Answer these on your own, then compare answers as a group
 
-1.  What is React?
+1.  What is React? Javascript library used to manage the DOM.
 
-2.  What is create-react-app?
+2.  What is create-react-app? How you create a new app within your computer
 
-3.  What is Component Based Architecture?
+3.  What is Component Based Architecture? A system of containing items within other items and organizing them within there designated box
 
-4.  What is JSX?
+4.  What is JSX? Basically the baby of JS and HTML (reacts version of html)
 
-5.  What is the virtual DOM?
+5.  What is the virtual DOM? lightweight copy of the DOM
 
-6.  What is unidirectional (one-way) data flow?
+6.  What is unidirectional (one-way) data flow? means that data can only flow one way.
 
 ### Understand
 
 Discuss these questions in pairs if you have a 4-person group
 
-7.  Summarize what happens when you run `create-react-app my-app`
+7.  Summarize what happens when you run `create-react-app my-app` it creates the location where your new app will be stored within your computer
 
-8.  Summarize the steps for forking and cloning a repo with an existing React app. How does this process differ from the process of creating a new React app on your laptop?
+8.  Summarize the steps for forking and cloning a repo with an existing React app. How does this process differ from the process of creating a new React app on your laptop? You open in github, fork the repository, clone it. You paste the clone url into your terminal. Your terminal should be within the file where you want to store the files. After cloning you need to install react to the file using npm install. After it has installed you enter npm start to open your npm window within your browser.
 
 9.  Explain what this code does:
 
